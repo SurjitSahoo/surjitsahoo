@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <div>Welcome to my page.</div>
     <div>I am Surjit, A full-stack software engineer from India</div>
   </div>
- <img src="https://emojis.slackmojis.com/emojis/images/1613957612/14271/india_flag.gif?1613957612" alt="india flag" height="35" style="margin-left: 1rem" />
+ <img src="https://emojis.slackmojis.com/emojis/images/1613957612/14271/india_flag.gif?1613957612" alt="india flag" height="35" style="margin-left: 1rem; display: inline-block" />
 </div>
 
 <br/>
