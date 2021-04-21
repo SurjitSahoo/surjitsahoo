@@ -51,7 +51,7 @@ I am Surjit, A full-stack software engineer from&nbsp;
 
 - 🔭 I’m currently working on ...
 
-  - [Data-Structures And Algorithms](https://github.com/SurjitSahoo/DataStructures-Algorithms, "Data-Structures and Algorithms implemented in TypeScript")  
+  - [Data-Structures And Algorithms](https://github.com/SurjitSahoo/DataStructures-Algorithms "Data-Structures and Algorithms implemented in TypeScript")  
   A JavaScript/TypeScript library for Data-Structures and Algorithms
   - [Learning CSS](https://surjitsahoo.github.io/learning-scss)  
   A dummy website showcasing css styles and cool effects
