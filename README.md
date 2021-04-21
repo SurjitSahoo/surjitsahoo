@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my page.  
-I am Surjit, A full-stack software engineer from 🇮🇳
+I am Surjit, A full-stack software engineer from&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" height="11" title="India">
 
 <br/>
 
