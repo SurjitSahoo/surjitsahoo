@@ -15,13 +15,8 @@ Here are some ideas to get you started:
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<div style="display: flex">
-  <div>
-    <div>Welcome to my page.</div>
-    <div>I am Surjit, A full-stack software engineer from India</div>
-  </div>
- <img src="https://emojis.slackmojis.com/emojis/images/1613957612/14271/india_flag.gif?1613957612" alt="india flag" height="35" style="margin-left: 1rem; display: inline-block" />
-</div>
+Welcome to my page.  
+I am Surjit, A full-stack software engineer from 🇮🇳
 
 <br/>
 
