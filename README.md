@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ... <br/>
+- 🌱 I’m currently learning ...
+
   <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes Logo" width="50" height="50" />
 
-- 🧰 Tools and languages I work with ... <br/>
+
+- 🧰 Tools and languages I work with ...
+
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" title="TypeScript" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" title="JavaScript" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react.js" title="React.Js" width="50" height="50" > &nbsp;
@@ -37,9 +40,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" title="MongoDB" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="docker" title="Docker" width="110" height="50" > &nbsp;
   <!-- <img src="" alt="" width="50" height="50" > &nbsp; -->
-### Connect with me
-![](https://img.shields.io/twitter/follow/nanha_jaan?style=social)
-
+### 👨 Connect with me
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nanha_jaan)&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surjit-kumar-sahoo-455b26130/)&nbsp;
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanhaajaan/)&nbsp;
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/surjit.sahoo.3576/)&nbsp;
 ### &#x1f4c8; My GitHub Stats
 
 <br>
