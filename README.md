@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Surjit Sahoo
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <!--
 **SurjitSahoo/surjitsahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,12 +33,14 @@ Here are some ideas to get you started:
   <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="Rx.Js" title="Rx.Js" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" title="Bootstrap" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" title="Sass" width="50" height="50" > &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" title="Webpack" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node.js" title="Node.Js" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" title="Python" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mySQL" title="MySQL" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" title="MongoDB" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="docker" title="Docker" width="110" height="50" > &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" title="Webpack" width="50" height="50" > &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" title="heroku" width="50" height="50" > &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="" title="git" width="50" height="50" > &nbsp;
   <!-- <img src="" alt="" width="50" height="50" > &nbsp; -->
 ### 👨 Connect with me
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nanha_jaan)&nbsp;
