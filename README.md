@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" title="JavaScript" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react.js" title="React.Js" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-firebase-1.svg" alt="react native" title= "React Native" width="50" height="50" > &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="next.js" title="Next.Js" width="50" height="50" > &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="next.js" title="Next.Js" width="70" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" title="Redux" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" alt="redux-saga" title="Redux Saga" width="70" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" title="Angular" width="50" height="50" > &nbsp;
