@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 
-  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes Logo" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes" title="Kubernetes" width="50" height="50" />
 
 
 - 🧰 Tools and languages I work with ...
