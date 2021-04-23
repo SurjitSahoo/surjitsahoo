@@ -73,6 +73,9 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <img src="{{img3}}" width="200">
 <img src="{{img4}}" width="200">
 <img src="{{img5}}" width="200">
+<img src="{{img6}}" width="200">
+<img src="{{img7}}" width="200">
+<img src="{{img8}}" width="200">
 </p>
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"> Connect with me</h3>
