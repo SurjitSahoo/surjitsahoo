@@ -1,0 +1,29 @@
+{
+  "name": "surjitsahoo",
+  "version": "1.0.0",
+  "description": "My awesome README.md",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurjitSahoo/surjitsahoo.git"
+  },
+  "keywords": [
+    "readme",
+    "javascript",
+    "githubProfile"
+  ],
+  "author": "Surjit Kumar Sahoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SurjitSahoo/surjitsahoo/issues"
+  },
+  "homepage": "https://github.com/SurjitSahoo/surjitsahoo#readme",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "puppeteer": "^9.0.0"
+  }
+}
