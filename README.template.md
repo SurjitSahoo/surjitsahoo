@@ -71,6 +71,12 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <br/>
 <br/>
 
+<h4 align="center">Here are 8 of my latest posts on
+<img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" height="12" />
+<a href="https://www.instagram.com/nanhaajaan/">@nanhaajaan</a> 
+😀</h4>
+
+
 <p>
 <img src="{{img1}}" width="200">
 <img src="{{img2}}" width="200">
@@ -82,7 +88,6 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <img src="{{img8}}" width="200">
 </p>
 
-Above are 8 of my latest posts on [instagram](https://www.instagram.com/nanhaajaan/) 😀
 
 <div align='center'>
 <h3>Connect with me<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"> </h3>
