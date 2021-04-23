@@ -71,6 +71,12 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <br/>
 <br/>
 
+<h4 align="center">Here are 8 of my latest posts on
+<img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" height="12" />
+<a href="https://www.instagram.com/nanhaajaan/">@nanhaajaan</a> 
+😀</h4>
+
+
 <p>
 <img src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c315.0.810.810a&#x2F;s640x640&#x2F;177292472_741942009821038_3002401542879018814_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;wnABhZiAUH4AX8Woc5k&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;ed9652ec720cb4f647fa0872be103367&amp;oe&#x3D;60A81F7E&amp;_nc_sid&#x3D;7bff83" width="200">
 <img src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c180.0.1080.1080a&#x2F;s640x640&#x2F;176180767_454244169014992_5049583557282301135_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;Qk5mYMvsgQUAX8gWnt8&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;29d2aaca0ae29481be0c7900f5f725d9&amp;oe&#x3D;60A619B6&amp;_nc_sid&#x3D;7bff83" width="200">
@@ -82,7 +88,6 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <img src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;137385265_158550742726910_7529705391135539823_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;102&amp;_nc_ohc&#x3D;FWHQ6IPoXw0AX92r_uG&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;412c08cca55eca1112b80ed16125429e&amp;oe&#x3D;60A7CEAD&amp;_nc_sid&#x3D;7bff83" width="200">
 </p>
 
-Above are 8 of my latest posts on [instagram](https://www.instagram.com/nanhaajaan/) 😀
 
 <div align='center'>
 <h3>Connect with me<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"> </h3>
