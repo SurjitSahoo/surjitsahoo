@@ -21,7 +21,6 @@ class PuppeteerService {
   }
 
   /**
-   *
    * @param {string} url
    */
   async goToPage(url) {
@@ -45,21 +44,13 @@ class PuppeteerService {
   }
 
   /**
-   *
    * @param {string} acc Account to crawl
    * @param {number} n Qty of image to fetch
    */
   async getLatestInstagramPostsFromAccount(acc, n) {
     await this.goToPage(`https://www.picuki.com/profile/${acc}`);
-    // let previousHeight;
 
     try {
-      // previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
-      // await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-      // // 🔽 Doesn't seem to be needed
-      // // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-      // await this.page.waitFor(1000);
-
       const nodes = await this.page.evaluate(() => {
         const images = document.querySelectorAll(`.post-image`);
         console.dir(document);
