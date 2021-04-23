@@ -67,11 +67,13 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=surjitsahoo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
+<p>
+<img src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c315.0.810.810a&#x2F;s640x640&#x2F;177292472_741942009821038_3002401542879018814_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;wnABhZiAUH4AX8Woc5k&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;ed9652ec720cb4f647fa0872be103367&amp;oe&#x3D;60A81F7E&amp;_nc_sid&#x3D;7bff83" width="200">
+<img src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c180.0.1080.1080a&#x2F;s640x640&#x2F;176180767_454244169014992_5049583557282301135_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;Qk5mYMvsgQUAX8gWnt8&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;29d2aaca0ae29481be0c7900f5f725d9&amp;oe&#x3D;60A619B6&amp;_nc_sid&#x3D;7bff83" width="200">
+<img src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;175889142_2930587300559214_7235911294802100061_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;Ns7sITOTaGEAX9hWuBl&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;b217a5a6c1c58215c21e0413b32c8945&amp;oe&#x3D;60A649EC&amp;_nc_sid&#x3D;7bff83" width="200">
 <img src="" width="200">
 <img src="" width="200">
-<img src="" width="200">
-<img src="" width="200">
-<img src="" width="200">
+</p>
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"> Connect with me</h3>
 
