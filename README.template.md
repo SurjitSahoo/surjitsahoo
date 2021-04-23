@@ -67,11 +67,13 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=surjitsahoo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
+<p>
 <img src="{{img1}}" width="200">
 <img src="{{img2}}" width="200">
 <img src="{{img3}}" width="200">
 <img src="{{img4}}" width="200">
 <img src="{{img5}}" width="200">
+</p>
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"> Connect with me</h3>
 
