@@ -47,7 +47,8 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" title="Webpack" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" title="heroku" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="" title="git" width="50" height="50" > &nbsp;
-  <!-- <img src="" alt="" width="50" height="50" > &nbsp; -->
+  <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry pi" title="Raspberry Pi" width="50" height="50" > &nbsp;
+  <!-- <img src="" alt="" width="50" height="50" > &nbsp; --> 
 
 - 🔭 I’m currently working on ...
 
@@ -67,6 +68,9 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=surjitsahoo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
+<br/>
+<br/>
+
 <p>
 <img src="{{img1}}" width="200">
 <img src="{{img2}}" width="200">
@@ -78,9 +82,16 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <img src="{{img8}}" width="200">
 </p>
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"> Connect with me</h3>
+Above are 8 of my latest posts on [instagram](https://www.instagram.com/nanhaajaan/) 😀
+
+<div align='center'>
+<h3>Connect with me<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"> </h3>
 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nanha_jaan)&nbsp;
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surjit-kumar-sahoo-455b26130/)&nbsp;
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanhaajaan/)&nbsp;
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/surjit.sahoo.3576/)&nbsp;
+
+[![README build](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml/badge.svg)](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml)
+
+</div>
