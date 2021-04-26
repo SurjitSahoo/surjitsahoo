@@ -78,14 +78,14 @@ I am Surjit, A full-stack software engineer from&nbsp;
 
 
 <p>
-<img src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c315.0.810.810a&#x2F;s640x640&#x2F;177292472_741942009821038_3002401542879018814_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;wnABhZiAUH4AX92BGI4&amp;edm&#x3D;ABfd0MgBAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;eccc5fe3ef74b29dbaed03ea1ae22b36&amp;oe&#x3D;60ABAEBE&amp;_nc_sid&#x3D;7bff83" width="200">
-<img src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c180.0.1080.1080a&#x2F;s640x640&#x2F;176180767_454244169014992_5049583557282301135_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;sE2e-gwS9H8AX8PzaSh&amp;edm&#x3D;ABfd0MgBAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;872a7a12daac32786c9c5db45e79fb81&amp;oe&#x3D;60A9A8F6&amp;_nc_sid&#x3D;7bff83" width="200">
-<img src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c240.0.960.960a&#x2F;s640x640&#x2F;176075593_461703071602772_5378503779037375939_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;b7OB-MgAxqEAX9CrPlE&amp;edm&#x3D;ABfd0MgBAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;4ea02ebdfb76226267651fa324e0507a&amp;oe&#x3D;60ABD282&amp;_nc_sid&#x3D;7bff83" width="200">
-<img src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c240.0.960.960a&#x2F;s640x640&#x2F;177232289_444147456653529_2260439087297702787_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;svUjFzPnccgAX9h95tf&amp;edm&#x3D;ABfd0MgBAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;6ebfac5a87915cb8d2224bd4aae720c5&amp;oe&#x3D;60A9C4DF&amp;_nc_sid&#x3D;7bff83" width="200">
-<img src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;175889142_2930587300559214_7235911294802100061_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;Ns7sITOTaGEAX93VOQD&amp;edm&#x3D;ABfd0MgBAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;af66436cf2a5a6c0894d6d27e17fe59a&amp;oe&#x3D;60A9D92C&amp;_nc_sid&#x3D;7bff83" width="200">
-<img src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;154544507_245567977210300_7326635559467182897_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;4dlKsYh6iVoAX8yXhfp&amp;edm&#x3D;ABfd0MgBAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;9d7f08324450d29f62121fe97aaa638d&amp;oe&#x3D;60A98274&amp;_nc_sid&#x3D;7bff83" width="200">
-<img src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.144.1152.1152a&#x2F;s640x640&#x2F;153113504_176097657386520_1038767530566791813_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;rFbWD7kzy_kAX8G97oq&amp;edm&#x3D;ABfd0MgBAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;92188a2190bcbcae185c8bdb5b98412f&amp;oe&#x3D;60A8F825&amp;_nc_sid&#x3D;7bff83" width="200">
-<img src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;137385265_158550742726910_7529705391135539823_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;102&amp;_nc_ohc&#x3D;7wCbrY-DB3sAX_GNq2z&amp;edm&#x3D;ABfd0MgBAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;5085403b4cdb1df61bc87134dccc3068&amp;oe&#x3D;60AB5DED&amp;_nc_sid&#x3D;7bff83" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
 </p>
 
 
