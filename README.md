@@ -28,6 +28,7 @@ I am Surjit, A full-stack software engineer from&nbsp;
 
 - 🧰 Tools and languages I work with ...
 
+  <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android" title="Android" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" title="TypeScript" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" title="JavaScript" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react.js" title="React.Js" width="50" height="50" > &nbsp;
@@ -37,13 +38,18 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" alt="redux-saga" title="Redux Saga" width="70" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" title="Angular" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="Rx.Js" title="Rx.Js" width="50" height="50" > &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="50" height="50" > &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" title="Bootstrap" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" title="Sass" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node.js" title="Node.Js" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" title="Python" width="50" height="50" > &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="50" height="50" > &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" title="C++" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mySQL" title="MySQL" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" title="MongoDB" width="50" height="55" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="docker" title="Docker" width="110" height="50" > &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nginx.svg" alt="nginx" title="nginx" width="110" height="30" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" title="Webpack" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" title="heroku" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="" title="git" width="50" height="50" > &nbsp;
