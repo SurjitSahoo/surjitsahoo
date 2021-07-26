@@ -25,7 +25,6 @@ I am Surjit, A full-stack software engineer from&nbsp;
 
   <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes" title="Kubernetes" width="50" height="50" />
 
-
 - 🧰 Tools and languages I work with ...
 
   <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android" title="Android" width="50" height="50" > &nbsp;
@@ -54,20 +53,19 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" title="heroku" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="" title="git" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry pi" title="Raspberry Pi" width="50" height="50" > &nbsp;
-  <!-- <img src="" alt="" width="50" height="50" > &nbsp; --> 
+  <!-- <img src="" alt="" width="50" height="50" > &nbsp; -->
 
 - 🔭 I’m currently working on ...
 
-  - [Data-Structures And Algorithms](https://github.com/SurjitSahoo/DataStructures-Algorithms "Data-Structures and Algorithms implemented in TypeScript")  
-  A JavaScript/TypeScript library for Data-Structures and Algorithms
+  - [Data-Structures And Algorithms](https://github.com/SurjitSahoo/DataStructures-Algorithms 'Data-Structures and Algorithms implemented in TypeScript')  
+    A JavaScript/TypeScript library for Data-Structures and Algorithms
   - [Learning CSS](https://surjitsahoo.github.io/learning-scss)  
-  A dummy website showcasing css styles and cool effects
-
+    A dummy website showcasing css styles and cool effects
 
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/surjitsahoo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjitsahoo&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjitsahoo&langs_count=3&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/surjitsahoo">
@@ -82,7 +80,6 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <a href="https://www.instagram.com/nanhaajaan/">@nanhaajaan</a> 
 😀</h4>
 
-
 <p>
 <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc240.0.960.960a%7C%7Cs640x640%7C%7C217569030_557203612353410_1416896718643255211_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3DIyjF14tUYAoAX_ebvb8%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3Dee814e41ecb6b73ad5ab919f978516c1%26oe%3D6104401D%26_nc_sid%3De7738c" width="200">
 <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc315.0.810.810a%7C%7Cs640x640%7C%7C177292472_741942009821038_3002401542879018814_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3D4AzVzNxFu3kAX9SDTL4%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3Ded70baac5643b18a20ce1ab9147d61c0%26oe%3D6104ABFE%26_nc_sid%3De7738c" width="200">
@@ -93,7 +90,6 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.180.1440.1440a%7C%7Cs640x640%7C%7C154544507_245567977210300_7326635559467182897_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3DCKspeiqHGn8AX-zox0e%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D1417b3c00ec6abe2e4200077b60813a3%26oe%3D6105A9B4%26_nc_sid%3De7738c" width="200">
 <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.144.1152.1152a%7C%7Cs640x640%7C%7C153113504_176097657386520_1038767530566791813_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3DHMyHzu3tqsQAX_9oJbH%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D841e8ffb601642a8804e1c964e0d18ee%26oe%3D6105E9E5%26_nc_sid%3De7738c" width="200">
 </p>
-
 
 <div align='center'>
 <h3>Connect with me<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"> </h3>
