@@ -49,10 +49,12 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" title="MongoDB" width="50" height="55" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="docker" title="Docker" width="110" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nginx.svg" alt="nginx" title="nginx" width="110" height="30" > &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="apache" title="apache" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" title="Webpack" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" title="heroku" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="" title="git" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry pi" title="Raspberry Pi" width="50" height="50" > &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" title="Arduino" width="50" height="50" > &nbsp;
   <!-- <img src="" alt="" width="50" height="50" > &nbsp; -->
 
 - 🔭 I’m currently working on ...
@@ -101,4 +103,6 @@ I am Surjit, A full-stack software engineer from&nbsp;
 
 [![README build](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml/badge.svg)](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml)
 
+<p>This <i>README</i> is updated <b>every 24 hours</b><br/>
+Last updated at: Tuesday, July 27, 11:11 AM GMT+5:30</p>
 </div>
