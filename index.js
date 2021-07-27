@@ -11,8 +11,8 @@ let DATA = {
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
+    timeZoneName: 'short,',
     timeZone: 'Asia/Kolkata',
-    timeZoneName: 'short,'
   })
 }
 
