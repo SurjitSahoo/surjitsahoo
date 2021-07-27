@@ -4,7 +4,17 @@ const puppeteerService = require('./services/puppeteer.service');
 
 const TEMPLATE_FILE = './README.template.md';
 
-let DATA = {};
+let DATA = {
+  refreshTime = new Date().toLocaleDateString('en-US', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZone: 'Asia/Kolkata',
+    timeZoneName: 'short,'
+  })
+}
 
 async function setInstagramPosts() {
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('nanhaajaan', 8);
