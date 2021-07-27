@@ -5,13 +5,13 @@ const puppeteerService = require('./services/puppeteer.service');
 const TEMPLATE_FILE = './README.template.md';
 
 let DATA = {
-  refreshTime: new Date().toLocaleDateString('en-US', {
+  refreshTime: new Date().toLocaleString('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
-    timeZoneName: 'short,',
+    timeZoneName: 'short',
     timeZone: 'Asia/Kolkata',
   })
 }
