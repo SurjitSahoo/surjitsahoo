@@ -83,14 +83,14 @@ I am Surjit, A full-stack software engineer from&nbsp;
 😀</h4>
 
 <p>
-<img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc240.0.960.960a%7C%7Cs640x640%7C%7C236856686_309104857669223_3237555759037002833_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D111%26_nc_ohc%3D-rP1fHw_HicAX_qz0wv%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D81b3556e1b281f37b4db12f6b24dece1%26oe%3D61496EEB%26_nc_sid%3De7738c" width="200">
-<img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc240.0.960.960a%7C%7Cs640x640%7C%7C217569030_557203612353410_1416896718643255211_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D5yK35qGdh68AX8PQghY%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D30cdc8d85188c9048c30157faf641a08%26oe%3D614976DD%26_nc_sid%3De7738c" width="200">
-<img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc315.0.810.810a%7C%7Cs640x640%7C%7C177292472_741942009821038_3002401542879018814_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DcEIeSfPgLC8AX9JqGQW%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D217fa1143a012cd311a04dfa5721057f%26oe%3D6149E2BE%26_nc_sid%3De7738c" width="200">
-<img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc180.0.1080.1080a%7C%7Cs640x640%7C%7C176180767_454244169014992_5049583557282301135_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3D14A2j-zAU2gAX83aDTr%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D3a9c1d2077934a5d583698c9afbb4e3e%26oe%3D614A3C76%26_nc_sid%3De7738c" width="200">
-<img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc240.0.960.960a%7C%7Cs640x640%7C%7C176075593_461703071602772_5378503779037375939_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3DGuDlHqWQ2UAAX-Vrt87%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D77815f7aa3cb08daf0269a262bd53981%26oe%3D614A6BC2%26_nc_sid%3De7738c" width="200">
-<img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc240.0.960.960a%7C%7Cs640x640%7C%7C177232289_444147456653529_2260439087297702787_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DdXT9iXCMnj8AX9XlgtG%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3Dbc4652b59ce82b24348399b330ed3cb1%26oe%3D61498DDF%26_nc_sid%3De7738c" width="200">
-<img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.180.1440.1440a%7C%7Cs640x640%7C%7C175889142_2930587300559214_7235911294802100061_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3DoY8ZlU9cuO0AX-vtw1m%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D15e13d8595c0ce06c634c657d289cf0b%26oe%3D6149A22C%26_nc_sid%3De7738c" width="200">
-<img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.180.1440.1440a%7C%7Cs640x640%7C%7C154544507_245567977210300_7326635559467182897_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3DfJ2KV1NlbGQAX8XMsuT%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D5afb064b2f11e43c605c973de61eed0a%26oe%3D6148E634%26_nc_sid%3De7738c" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
 </p>
 
 <div align='center'>
@@ -104,5 +104,5 @@ I am Surjit, A full-stack software engineer from&nbsp;
 [![README build](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml/badge.svg)](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml)
 
 <p>This <i>README</i> is updated <b>every 24 hours</b><br/>
-Last update: Thursday, September 16, 7:37 AM GMT+5:30</p>
+Last update: Friday, September 17, 7:37 AM GMT+5:30</p>
 </div>
