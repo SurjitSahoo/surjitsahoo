@@ -13,8 +13,8 @@ class PuppeteerService {
         '--ignore-certifcate-errors',
         '--ignore-certifcate-errors-spki-list',
         '--incognito',
-        '--proxy-server=http=194.67.37.90:3128',
-        '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"', //
+        // '--proxy-server=http=194.67.37.90:3128',
+        // '--user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"', //
       ],
       // headless: false,
     });
@@ -50,6 +50,7 @@ class PuppeteerService {
   async getLatestInstagramPostsFromAccount(acc, n) {
     await this.goToPage(`https://www.picuki.com/profile/${acc}`);
 
+    await this.page.screenshot({ path: 'ab.png' });
     try {
       const nodes = await this.page.evaluate(() => {
         const images = document.querySelectorAll('.post-image');
