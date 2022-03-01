@@ -63,7 +63,7 @@ I am Surjit, A full-stack software engineer from&nbsp;
     A JavaScript/TypeScript library for Data-Structures and Algorithms
   - [Learning CSS](https://surjitsahoo.github.io/learning-scss)  
     A dummy website showcasing css styles and cool effects
-  - Plexbook
+  - Plexbook (Private repo)  
     A cross platform audiobook player for plex media server
 
 #### &#x1f4c8; My GitHub Stats
