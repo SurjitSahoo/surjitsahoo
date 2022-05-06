@@ -58,11 +58,6 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <!-- <img src="" alt="" width="50" height="50" > &nbsp; -->
 
 - 🔭 I’m currently working on ...
-
-  - [Data-Structures And Algorithms](https://github.com/SurjitSahoo/DataStructures-Algorithms 'Data-Structures and Algorithms implemented in TypeScript')  
-    A JavaScript/TypeScript library for Data-Structures and Algorithms
-  - [Learning CSS](https://surjitsahoo.github.io/learning-scss)  
-    A dummy website showcasing css styles and cool effects
   - Plexbook (Private repo)  
     A cross platform audiobook player for plex media server
 
