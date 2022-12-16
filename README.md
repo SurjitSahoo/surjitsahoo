@@ -32,11 +32,12 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" title="JavaScript" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react.js" title="React.Js" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-firebase-1.svg" alt="react native" title= "React Native" width="50" height="50" > &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="next.js" title="Next.Js" width="70" height="50" > &nbsp;
+  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="Next.js" title= "Next.JS" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" title="Redux" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" alt="redux-saga" title="Redux Saga" width="70" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" title="Angular" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="Rx.Js" title="Rx.Js" width="50" height="50" > &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest.Js" title="Nest.Js" width="50" height="50" > &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="50" height="50" > &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" title="Bootstrap" width="50" height="50" > &nbsp;
@@ -46,6 +47,7 @@ I am Surjit, A full-stack software engineer from&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" title="C++" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mySQL" title="MySQL" width="50" height="50" > &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgresSQL" title="PostgresSQL" width="50" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" title="MongoDB" width="50" height="55" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="docker" title="Docker" width="110" height="50" > &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nginx.svg" alt="nginx" title="nginx" width="110" height="30" > &nbsp;
@@ -101,5 +103,5 @@ I am Surjit, A full-stack software engineer from&nbsp;
 [![README build](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml/badge.svg)](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml)
 
 <p>This <i>README</i> is updated <b>every 24 hours</b><br/>
-Last update: Friday, December 16, 7:41 AM GMT+5:30</p>
+Last update: Friday, December 16, 9:29 PM GMT+5:30</p>
 </div>
