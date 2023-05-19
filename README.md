@@ -79,7 +79,7 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <br/>
 
 <h4 align="center">Here are 8 of my latest posts on
-<img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" height="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" height="14" />
 <a href="https://www.instagram.com/nanhaajaan/">@nanhaajaan</a> 
 😀</h4>
 
@@ -105,5 +105,5 @@ I am Surjit, A full-stack software engineer from&nbsp;
 [![README build](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml/badge.svg)](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml)
 
 <p>This <i>README</i> is updated <b>every 24 hours</b><br/>
-Last update: Friday, May 19, 4:57 PM GMT+5:30</p>
+Last update: Friday, May 19, 5:00 PM GMT+5:30</p>
 </div>
