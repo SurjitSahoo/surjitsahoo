@@ -24,6 +24,8 @@ I am Surjit, A full-stack software engineer from&nbsp;
 - 🌱 I’m currently learning ...
 
   <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes" title="Kubernetes" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart" title="Dart" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" title="Flutter" width="50" height="50" />
 
 - 🧰 Tools and languages I work with ...
 
