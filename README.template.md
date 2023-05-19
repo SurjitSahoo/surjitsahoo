@@ -79,7 +79,7 @@ I am Surjit, A full-stack software engineer from&nbsp;
 <br/>
 
 <h4 align="center">Here are 8 of my latest posts on
-<img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" height="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" height="14" />
 <a href="https://www.instagram.com/nanhaajaan/">@nanhaajaan</a> 
 😀</h4>
 
