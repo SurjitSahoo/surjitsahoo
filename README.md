@@ -24,6 +24,8 @@ I am Surjit, A full-stack software engineer from&nbsp;
 - 🌱 I’m currently learning ...
 
   <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes" title="Kubernetes" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart" title="Dart" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" title="Flutter" width="50" height="50" />
 
 - 🧰 Tools and languages I work with ...
 
@@ -103,5 +105,5 @@ I am Surjit, A full-stack software engineer from&nbsp;
 [![README build](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml/badge.svg)](https://github.com/SurjitSahoo/surjitsahoo/actions/workflows/main.yaml)
 
 <p>This <i>README</i> is updated <b>every 24 hours</b><br/>
-Last update: Friday, May 19, 7:37 AM GMT+5:30</p>
+Last update: Friday, May 19, 4:57 PM GMT+5:30</p>
 </div>
